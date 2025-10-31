@@ -1,0 +1,12 @@
+{
+  "parent": "pcraftrevorn:custom/piglin_throne1",
+  "textures": {
+    "all": "pcraftrevorn:block/piglin_throne_base",
+    "particle": "pcraftrevorn:block/piglin_throne_base",
+    "1": "pcraftrevorn:block/piglin_throne_diagonals",
+    "2": "pcraftrevorn:block/blaze_rod_supports",
+    "3": "pcraftrevorn:block/skull_decoration",
+    "4": "pcraftrevorn:block/piglin_throne_base"
+  },
+  "render_type": "solid"
+}

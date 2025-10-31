@@ -1,0 +1,11 @@
+{
+  "parent": "pcraftrevorn:custom/piglin_throne2",
+  "textures": {
+    "all": "pcraftrevorn:block/piglin_throne_backing",
+    "particle": "pcraftrevorn:block/piglin_throne_backing",
+    "1": "pcraftrevorn:block/piglin_throne_backing",
+    "2": "pcraftrevorn:block/cloth_backing",
+    "3": "pcraftrevorn:block/piglin_throne_arm"
+  },
+  "render_type": "solid"
+}

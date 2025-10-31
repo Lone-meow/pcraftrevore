@@ -1,0 +1,14 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "pcraftrevorn:item/basaltmite_plate_gilded"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "pcraftrevorn:gilded_basaltmite_scale_variant": 31
+      },
+      "model": "pcraftrevorn:item/gilded_basaltmite_scale_0"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "minecraft:block/pumpkin_top",
+    "up": "minecraft:block/pumpkin_top",
+    "north": "pcraftrevorn:block/soul_jack_o_lantern",
+    "east": "minecraft:block/pumpkin_side",
+    "south": "minecraft:block/pumpkin_side",
+    "west": "minecraft:block/pumpkin_side",
+    "particle": "minecraft:block/pumpkin_top"
+  },
+  "render_type": "solid"
+}

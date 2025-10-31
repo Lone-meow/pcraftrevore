@@ -1,0 +1,6 @@
+{
+  "parent": "pcraftrevorn:displaysettings/rabbit_staff",
+  "textures": {
+    "layer0": "pcraftrevorn:item/rabbit_staff1"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "pcraftrevorn:block/glowberry_fermentation_barrel_bottom",
+    "up": "pcraftrevorn:block/glowberry_fermentation_barrel_top",
+    "north": "pcraftrevorn:block/glowberry_fermentation_barrel_front",
+    "east": "pcraftrevorn:block/glowberry_fermentation_barrel_side",
+    "south": "pcraftrevorn:block/glowberry_fermentation_barrel_back",
+    "west": "pcraftrevorn:block/glowberry_fermentation_barrel_side2",
+    "particle": "pcraftrevorn:block/glowberry_fermentation_barrel_bottom"
+  },
+  "render_type": "solid"
+}

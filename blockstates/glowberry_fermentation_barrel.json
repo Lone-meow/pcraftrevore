@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "pcraftrevorn:block/glowberry_fermentation_barrel"
+    },
+    "facing=east": {
+      "model": "pcraftrevorn:block/glowberry_fermentation_barrel",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "pcraftrevorn:block/glowberry_fermentation_barrel",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "pcraftrevorn:block/glowberry_fermentation_barrel",
+      "y": 270
+    }
+  }
+}
